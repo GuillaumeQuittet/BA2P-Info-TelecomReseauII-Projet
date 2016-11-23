@@ -44,3 +44,71 @@ git config --global credential.helper store
 
 Voilà vous êtes fin prêt pour travailler sur le projet.
 
+## Les règles à suivre
+
+- On n'édite que sa partie et on ne touche pas aux fichiers des autres
+- On met à jour ses fichiers locaux avant de travailler
+- On ne push pas toutes les 2 secondes
+- On ne met pas de bêtises dans les commits
+- Dès qu'on a fini une partie, on push.
+
+## Les commandes de Git
+
+### Mettre à jour les fichiers locaux
+
+```
+git pull
+```
+
+### Voir les modifications par rapport au dépot
+
+```
+git status
+```
+
+### Ajouter ou supprimer des fichiers présent dans le résultat de la commande ***git status***
+
+#### Tous les fichiers
+
+```
+git add *
+```
+
+#### Le fichier toto.txt
+
+- Ajouter
+```
+git add toto.txt
+```
+
+- Supprimer
+```
+git rm toto.txt
+```
+
+#### Les fichiers tata.txt et toto.txt
+
+- Ajouter
+```
+git add tata.txt toto.txt
+```
+
+- Supprimer
+```
+git rm tata.txt toto.txt
+```
+
+### Faire un commit
+
+Chaque modification effectuée a besoin d'un commit (message). Cela permet de savoir ce qui a été fait et permet aussi de revenir à une version antérieure d'un fichier grâce à un ancien commit.
+
+```
+git commit -m "Mon message"
+```
+
+### Faire un push
+
+Faire un push permet de mettre les fichiers modifiés sur le dépot
+```
+git push
+```
