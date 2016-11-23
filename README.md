@@ -18,16 +18,18 @@ Ceci est le dépot servant à stocker les fichiers.
 
 - Tapez la commande suivante:
 
+```
     git clone https://github.com/GuillaumeQuittet/BA2P-Info-TelecomReseauII-Projet.git
+```
 
 - Rendez-vous dans le dossier ***BA2P-Info-TelecomReseauII-Projet***
 
 - Tapez les commandes suivantes
 
-
+```
     git config --global user.email "you@exemple.com"
     git config --global user.name "Guillaume Quittet"
-
+```
 
 Où :
 
@@ -36,9 +38,9 @@ Où :
 
 - Ensuite pour sauvegarder tout le temps votre mot de passe, tapez cette commande :
 
-
+```
     git config --global credential.helper store
-
+```
 
 Voilà vous êtes fin prêt pour travailler sur le projet.
 
