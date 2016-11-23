@@ -2,6 +2,6 @@
 
 Contient le rapport du projet.
 
-## Autheurs
+## Auteurs
 
 Simon et Valérian

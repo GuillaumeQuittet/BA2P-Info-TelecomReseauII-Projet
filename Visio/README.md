@@ -2,6 +2,6 @@
 
 Contient la topologie du réseau réalisée sur Visio.
 
-## Autheurs
+## Auteurs
 
 Alexandre et Florian
