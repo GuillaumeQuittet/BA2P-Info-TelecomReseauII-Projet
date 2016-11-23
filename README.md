@@ -12,7 +12,7 @@ Ceci est le dépot servant à stocker les fichiers.
 
 ![bouton-clone-or-download]
 
-[bouton-clone-or-download]: https://github.com/GuillaumeQuittet/BA2P-Info-TelecomReseauII-Projet/blob/master/screenshots/bouton-clone-or-download.png
+[bouton-clone-or-download]: https://github.com/GuillaumeQuittet/BA2P-Info-TelecomReseauII-Projet/blob/master/screenshots/Root-rdm/bouton-clone-or-download.png
 
 - Copiez collez l'url
 
