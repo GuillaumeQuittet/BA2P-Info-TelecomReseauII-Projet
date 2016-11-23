@@ -50,7 +50,7 @@ Voilà vous êtes fin prêt pour travailler sur le projet.
 - On met à jour ses fichiers locaux avant de travailler
 - On ne push pas toutes les 2 secondes
 - On ne met pas de bêtises dans les commits
-- Dès qu'on a fini une partie, on push.
+- Dès qu'on a fini une partie, on push
 
 ## Les commandes de Git
 
@@ -73,6 +73,8 @@ git diff
 ```
 
 ### Ajouter ou supprimer des fichiers présent dans le résultat de la commande ***git status***
+
+Ceci sert à appliquer les modifications citées dans ***git status***. Par exemple, si on a créé ou modifié des fichiers, on va devoir utiliser la commande ***add*** alors que si on a supprimé un fichier, on va devoir utilisé la commande ***rm*** pour dire au dépot qu'on a ajouté, modifié ou supprimé tel et tel fichiers.
 
 #### Tous les fichiers
 
