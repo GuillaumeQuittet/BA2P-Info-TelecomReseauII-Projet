@@ -4,6 +4,8 @@ Ceci est le dépot servant à stocker les fichiers.
 
 ## Comment participer ?
 
+- Créez un compte sur Github
+
 - Téléchargez et installez Git (disponible [ici](https://git-scm.com/))
 
 - Cliquez sur le bouton vert ***Clone or download***
