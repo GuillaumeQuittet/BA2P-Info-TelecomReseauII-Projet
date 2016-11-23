@@ -36,7 +36,7 @@ Où :
 - you@exemple.com = Votre email qui a servi à l'inscription pour créer votre compte Github.
 - Guillaume Quittet = A remplacer par votre prénom et votre nom.
 
-- Ensuite pour sauvegarder tout le temps votre mot de passe, tapez cette commande :
+Ensuite pour sauvegarder tout le temps votre mot de passe, tapez cette commande :
 
 ```
 git config --global credential.helper store
