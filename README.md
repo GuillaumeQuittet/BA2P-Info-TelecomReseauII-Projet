@@ -24,8 +24,10 @@ Ceci est le dépot servant à stocker les fichiers.
 
 - Tapez les commandes suivantes
 
+
     git config --global user.email "you@exemple.com"
     git config --global user.name "Guillaume Quittet"
+
 
 Où :
 
@@ -34,7 +36,9 @@ Où :
 
 - Ensuite pour sauvegarder tout le temps votre mot de passe, tapez cette commande :
 
+
     git config --global credential.helper store
+
 
 Voilà vous êtes fin prêt pour travailler sur le projet.
 
