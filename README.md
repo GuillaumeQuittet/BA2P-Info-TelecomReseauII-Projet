@@ -66,6 +66,12 @@ git pull
 git status
 ```
 
+### Voir les modifications apportées
+
+```
+git diff
+```
+
 ### Ajouter ou supprimer des fichiers présent dans le résultat de la commande ***git status***
 
 #### Tous les fichiers
